@@ -200,10 +200,3 @@ curl -X POST http://localhost:3000/api/incidents \
 curl -X DELETE http://localhost:3000/api/incidents/1
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request 
